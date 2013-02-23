@@ -4,8 +4,8 @@
 es:
   js:
     share:
-      topic: 'share a link to this topic'
-      post: 'share a link to this post'
+      topic: 'compartir un enlace a este tema'
+      post: 'compartir un enlace en este mensaje'
 
     edit: 'editar el titulo y la categoria de este mensaje'
     not_implemented: "Esta característica no ha sido implementada aun, lo sentimos!"
@@ -22,11 +22,11 @@ es:
     links: Links
     faq: "FAQ"
     you: "Usted"
-    ok: "ok"
-    or: "or"
+    ok: "Hecho"
+    or: "o"
 
     suggested_topics:
-      title: "Suggested Topics"
+      title: "Temas Sugeridos"
 
     bookmarks:
       not_logged_in: "Sorry you must be logged in to bookmark posts."
