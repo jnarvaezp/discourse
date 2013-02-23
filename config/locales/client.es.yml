@@ -29,19 +29,19 @@ es:
       title: "Temas Sugeridos"
 
     bookmarks:
-      not_logged_in: "Sorry you must be logged in to bookmark posts."
-      created: "You've bookmarked this post."
-      not_bookmarked: "You've read this post; click to bookmark it."
-      last_read: "This is the last post you've read."
+      not_logged_in: "Perdón, debes haber ingresado para marcar los mensajes"
+      created: "Usted ha marcado este mensaje."
+      not_bookmarked: "Usted a leido este mensaje, de click para marcar."
+      last_read: "Este es el ultimo mensaje que ha leido."
 
-    new_topics_inserted: "{{count}} new topics."
-    show_new_topics: "Click to show."
-    preview: "preview"
-    cancel: "cancel"
+    new_topics_inserted: "{{count}} nuevos temas."
+    show_new_topics: "Click para mostrar."
+    preview: "avance"
+    cancel: "cancelar"
 
-    save: "Save Changes"
-    saving: "Saving..."
-    saved: "Saved!"
+    save: "Guardar cambios"
+    saving: "Guardando..."
+    saved: "Guardado!"
 
     user_action_descriptions:
       "6": "Responses"
