@@ -44,34 +44,34 @@ es:
     saved: "Guardado!"
 
     user_action_descriptions:
-      "6": "Responses"
+      "6": "Respuestas"
 
     user:
-      information: "User Information"
+      information: "Información de Usuario"
       profile: Profile
-      title: "User"
+      title: "Usuario"
       mute: Mute
       edit: Edit Preferences
-      download_archive: "download archive of my posts"
-      private_message: "Private Message"
-      private_messages: "Messages"
-      activity_stream: "Activity"
-      preferences: "Preferences"
-      bio: "About me"
-      change_password: "change"
-      invited_by: "Invited By"
-      trust_level: "Trust Level"
+      download_archive: "descargar un archivo con mis mensajes"
+      private_message: "Mensaje Privado"
+      private_messages: "Mensajes"
+      activity_stream: "Actividad"
+      preferences: "Preferencias"
+      bio: "Acerca de mi"
+      change_password: "cambio"
+      invited_by: "Invitado por"
+      trust_level: "Nivel de Confianza"
 
       change_username:
-        action: "change"
-        title: "Change Username"
-        confirm: "There could be consequences to changing your username. Are you absolutely sure you want to?"
-        taken: "Sorry that username is taken."
-        error: "There was an error changing your username."
-        invalid: "That username is invalid. It must only include numbers and letters"
+        action: "cambiar"
+        title: "Cambiar Nombre de Usuario"
+        confirm: "Puede haber consecuencias para cambiar su nombre de usuario. ¿Está absolutamente seguro de querer hacerlo?"
+        taken: "Lo lamentamos este nombre de usuario ya esta siendo usado."
+        error: "A ocurrido un error al cambiar el nombre de usuario."
+        invalid: "Este nombre de usuario es invalido. Solo puede contener números y letras"
       change_email:
-        action: 'change'
-        title: "Change Email"
+        action: 'cambiar'
+        title: "Cambiar E-Mail"
         taken: "Sorry that email is not available."
         error: "There was an error changing your email. Perhaps that address is already in use?"
         success: "We've sent an email to that address. Please follow the confirmation instructions."
@@ -102,7 +102,7 @@ es:
         checking: "Checking username availability..."
         enter_email: 'Username found. Enter matching email.'
 
-      last_posted: "Last Post"
+      last_posted: "Ultimo Mensaje"
       last_emailed: "Last Emailed"
       last_seen: "Last Seen"
       created: "Created At"
